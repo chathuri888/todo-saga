@@ -51,7 +51,7 @@ const App = () => {
   return (
     <Container>
       <TodoContainer onSubmit={handleSubmit}>
-        <Title>Marketing Campaing</Title>
+        <Title>Marketing Campaing ...</Title>
 
         <InputContainer>
           <AddButton type="submit">Add Task</AddButton>
