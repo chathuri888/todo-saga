@@ -21,7 +21,7 @@ export const TodoContainer = styled.form`
 `;
 
 export const Title = styled.h1`
-  color: #33c4ff;
+  color: #020202;
   margin-bottom: 3.2rem;
   text-align: center;
 `;
